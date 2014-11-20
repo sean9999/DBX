@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"$fi",
+				"$firebase"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"start",
+				"start_with  (variable)"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"array",
+				"array_pop"
+			],
+			[
+				"can",
+				"can_move_up"
+			],
+			[
+				"can_m",
+				"can_move_right"
+			],
+			[
+				"know",
+				"knowngrid"
+			],
+			[
+				"test",
+				"testQuadrant"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"this",
+				"thisNum"
+			],
+			[
+				"t",
+				"thisNum"
+			],
+			[
+				"n",
+				"thisNum"
+			],
+			[
+				"high",
+				"highest_prime"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"msg",
+				"msgstack"
+			],
+			[
+				"Write",
+				"writeHeader"
+			],
+			[
+				"heade",
+				"headers_are_written"
+			],
+			[
+				"head",
+				"headers_are_written"
+			],
+			[
+				"app",
+				"append_config"
+			],
+			[
+				"I",
+				"IdentityFile"
+			],
+			[
+				"conn",
+				"connection_string"
+			],
+			[
+				"op",
+				"opts1"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"fin",
+				"finalize1"
+			],
+			[
+				"all",
+				"allsentances"
+			],
+			[
+				"report",
+				"report_msm_bad"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"m",
+				"mutator"
+			],
+			[
+				"attr",
+				"attribute"
+			],
+			[
+				"s",
+				"selector"
+			],
+			[
+				"fix",
+				"fixThisStuff"
+			],
+			[
+				"select",
+				"selector"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"less",
+				"less-middleware"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backl",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-size"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Bower: Configure project"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/seanmacdonald/REPOS/DBX/app/scripts/helpers.js",
+		"/Users/seanmacdonald/REPOS/DBX/app/scripts/dbx.js",
+		"/Users/seanmacdonald/REPOS/DBX/app/index.html",
+		"/Users/seanmacdonald/REPOS/DBX/app/scripts/main.js",
+		"/Users/seanmacdonald/REPOS/numops/app/scripts/services/db.js",
+		"/Users/seanmacdonald/REPOS/numops/app/scripts/controllers/debug.js",
+		"/Users/seanmacdonald/REPOS/numops/app/views/debug.html",
+		"/Users/seanmacdonald/REPOS/numops/app/scripts/tmp/fake_orders.json",
+		"/Users/seanmacdonald/REPOS/numops/app/styles/main.css",
+		"/Users/seanmacdonald/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/seanmacdonald/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/seanmacdonald/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/seanmacdonald/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/seanmacdonald/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/seanmacdonald/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/seanmacdonald/REPOS/numops/.bowerrc",
+		"/Users/seanmacdonald/REPOS/numops/app/scripts/controllers/orders.js",
+		"/Users/seanmacdonald/REPOS/numops/app/scripts/controllers/contacts.js",
+		"/Users/seanmacdonald/REPOS/numops/app/views/contacts.html",
+		"/Users/seanmacdonald/REPOS/numops/app/views/products.html",
+		"/Users/seanmacdonald/REPOS/numops/app/partials/pagination.tpl.html",
+		"/Users/seanmacdonald/REPOS/numops/bower.json",
+		"/Users/seanmacdonald/REPOS/numops/bower_components/angular-utils-pagination/dirPagination.tpl.html",
+		"/Users/seanmacdonald/REPOS/numops/test/spec/controllers/main.js",
+		"/Users/seanmacdonald/REPOS/numops/test/karma.conf.js",
+		"/Users/seanmacdonald/REPOS/numops/app/index.html",
+		"/Users/seanmacdonald/REPOS/numops/app/views/companies.html",
+		"/Users/seanmacdonald/REPOS/numops/app/views/nav.html",
+		"/Users/seanmacdonald/REPOS/numops/app/scripts/app.js",
+		"/Users/seanmacdonald/REPOS/numops/app/scripts/services/debug.js",
+		"/Users/seanmacdonald/REPOS/numops/Dockerbuild/default",
+		"/Users/seanmacdonald/REPOS/numops/app/scripts/services/orders.js",
+		"/Users/seanmacdonald/REPOS/numops/app/scripts/services/companies.js",
+		"/Users/seanmacdonald/REPOS/numops/migrations/2014-10-18/gaiea/bridge/app.js",
+		"/Users/seanmacdonald/REPOS/numops/test/tmp.x",
+		"/Users/seanmacdonald/REPOS/numops/migrations/2014-10-18/firebase/all.json",
+		"/Users/seanmacdonald/REPOS/numops/migrations/2014-10-18/gaiea/export/app.js",
+		"/Users/seanmacdonald/REPOS/numops/migrations/2014-10-18/gaiea/export/package.json",
+		"/Users/seanmacdonald/REPOS/numops/app/views/createorder.html",
+		"/Users/seanmacdonald/REPOS/numops/.gitignore",
+		"/Users/seanmacdonald/REPOS/rawintegrated/podiumapi/module/PodiumApi/config/module.config.php",
+		"/Users/seanmacdonald/REPOS/rawintegrated/podiumapi/module/PodiumApi/src/PodiumApi/GroupList/Manager.php",
+		"/Users/seanmacdonald/REPOS/rawintegrated/podiumapi/module/Podium/src/Podium/Group/Group.php",
+		"/Users/seanmacdonald/REPOS/rawintegrated/podiumapi/module/Podium/src/Podium/Group/Listing.php",
+		"/Users/seanmacdonald/REPOS/rawintegrated/podiumapi/site.conf",
+		"/Users/seanmacdonald/REPOS/rawintegrated/index.html",
+		"/Users/seanmacdonald/REPOS/rawintegrated/podiumapi/module/Podium/src/Podium/Controller/IndexController.php",
+		"/Users/seanmacdonald/REPOS/rawintegrated/podiumapi/module/RawLib/src/RawLib/File/DataFile/JsonExtractor.php",
+		"/Users/seanmacdonald/Dropbox/code/code-eval/stack-interface/app.sh",
+		"/Users/seanmacdonald/Dropbox/code/findprimes/app.js",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_site/params.json",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_config.yml",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_layouts/article.html",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_layouts/listing.html",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_posts/2011-01-02-some-code.html",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/index.html",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/hello.md",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_posts/2014-02-15-toast-post.html",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_posts/2014-03-07-a-new-way-to-think-about-forms.html",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_posts/2014-03-03-robot-first-development.md",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/.gitignore",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_includes/robot-first-development.md",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_posts/2014-02-15-topologies-in-n-dimensional-space.html",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/assets/css/fademein.css",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/assets/css/style.css",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/assets/js/functionality.js",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/assets/js/worker.getImage.js",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/assets/js/jquery.teletype.js",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/assets/worker.getImage.js",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_posts/2011-12-31-new-years-eve-is-awesome.html",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_includes/searchbar.html",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_posts/2011-12-31-new-years-eve-is-awesome.md",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_posts/2014-03-07-cool-mr-nice.md",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_includes/footer.html",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/stylesheets/style.css",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/_includes/header.html",
+		"/Users/seanmacdonald/REPOS/sean9999.github.io/javascripts/retina.js",
+		"/Users/seanmacdonald/code/so/so_22187278.js",
+		"/Users/seanmacdonald/code/somongo/fill.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/upgrade/upgrader.js",
+		"/Users/seanmacdonald/REPOS/imageSquare/guest/www/domains/imagesquare/prod/inc/pageHead.php",
+		"/Users/seanmacdonald/REPOS/imageSquare/guest/www/domains/imagesquare/prod/z/js/global.js",
+		"/Users/seanmacdonald/REPOS/imageSquare/guest/www/domains/imagesquare/prod/z/css/global.css",
+		"/Users/seanmacdonald/REPOS/imageSquare/host/proxyserver/server.js",
+		"/Users/seanmacdonald/REPOS/imageSquare/guest/www/domains/imagesquare/prod/web/index.php",
+		"/Users/seanmacdonald/REPOS/imageSquare/host/bootstrap",
+		"/Users/seanmacdonald/REPOS/imageSquare/host/bootstrap.js",
+		"/Users/seanmacdonald/REPOS/imageSquare/proxyserver/server.js",
+		"/Users/seanmacdonald/Library/Application Support/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/opt/aws/app.js",
+		"/Users/seanmacdonald/code/scripts/jira_sdms_25.js",
+		"/Users/seanmacdonald/code/scripts/kill_fakers.js",
+		"/Users/seanmacdonald/Dropbox/Desktopz/QR Code Site/index.php",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/hotfixes/lifeBrandNormalize.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/upgrade/.gitignore",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/upgrade/lbfix.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/jira-19.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/upgrade/package.json",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/upgrade/vars.json",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/upgrade/upgrade.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/migrator.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/jira-22.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/create_search_index.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/search/create_search_index.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/search/stopwords.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/search/stemmer.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/helpers.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/titlecase_names.py",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/MongoConnector.py",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/x.py",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/config.json",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/titlecase_whitelist/drug_abbreviations.txt",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/titlecase_whitelist/title_whitelist.txt",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/report_apostrophe_bad.csv",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/foo.js",
+		"/Users/seanmacdonald/REPOS/brain/scripts/lampy_tools/mongo_console_helpers.js",
+		"/Users/seanmacdonald/REPOS/brain/.gitignore",
+		"/Users/seanmacdonald/Dropbox/Desktopz/mongo.js",
+		"/Users/seanmacdonald/Downloads/sleuth/javascripts/nav.js",
+		"/Users/seanmacdonald/REPOS/brain-debug/braindebug.js",
+		"/Users/seanmacdonald/REPOS/brain-debug/.gitignore",
+		"/Users/seanmacdonald/REPOS/brain-debug/routes/search.js",
+		"/Users/seanmacdonald/REPOS/brain-debug/routes/tags.js",
+		"/Users/seanmacdonald/REPOS/brain-debug/routes/HealthAndPharm.js",
+		"/Users/seanmacdonald/REPOS/brain-debug/routes/products.js",
+		"/Users/seanmacdonald/REPOS/brain-debug/package.json",
+		"/Users/seanmacdonald/REPOS/brain-debug/routes/categories.js",
+		"/Users/seanmacdonald/REPOS/brain-debug/vars.json"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ng-",
+			"M-4e96f3d021db536810000001",
+			"oid",
+			"$oid",
+			"\"$",
+			"target",
+			"/group",
+			"GroupListResourceListener",
+			"list'",
+			"fadeMeIn.css",
+			"img",
+			"margin",
+			"img",
+			"prods",
+			" C ",
+			"mgr1",
+			"debug",
+			"mgr0",
+			"dummyDebug",
+			"mgr1",
+			"stopwords",
+			"\\bmg\\b",
+			"schemaVersion"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
