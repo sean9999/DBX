@@ -197,6 +197,9 @@
 			]
 		]
 	},
+	"buffers":
+	[
+	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -235,6 +238,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/seanmacdonald/REPOS/DBX"
+	],
 	"file_history":
 	[
 		"/Users/seanmacdonald/REPOS/DBX/app/scripts/helpers.js",
@@ -419,6 +426,14 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
 	"incremental_find":
 	{
 		"height": 31.0
@@ -454,6 +469,7 @@
 	{
 		"height": 0.0
 	},
+	"project": "dbx.sublime-project",
 	"replace":
 	{
 		"height": 58.0
@@ -483,6 +499,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
